@@ -7,13 +7,13 @@
 ## Works Done by IMRE and STRUCT
 #### Survey
  * VCM Survey [[Web]]() [[PDF]]()
-   * Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics (Arxiv 2020), Ling-Yu Duan, Jiaying Liu, Wenhan Yang, Tiejun Huang, Wen Gao.
+   * Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics (arXiv 2020), Ling-Yu Duan, Jiaying Liu, Wenhan Yang, Tiejun Huang, Wen Gao.
 
 #### Human-Machine Colloborative Coding
  * Scalable Image Coding [[Web]](https://williamyang1991.github.io/projects/VCM-Face/) [[PDF]]()
-   * Towards Coding for Human and Machine Vision: A Scalable Image Coding Approach (Arxiv 2020), Yueyu Hu, Shuai Yang, Wenhan Yang, Ling-Yu Duan, Jiaying Liu.
+   * Towards Coding for Human and Machine Vision: A Scalable Image Coding Approach (arXiv 2020), Yueyu Hu, Shuai Yang, Wenhan Yang, Ling-Yu Duan, Jiaying Liu.
  * Emerging Coding Paradigm VCM [[Web]]() [[PDF]]()
-   * An Emerging Coding Paradigm VCM: A Scalable Coding Approach Beyond Feature and Signal (Arxiv 2020), Sifeng Xia, Kunchangtai Liang, Wenhan Yang, Ling-Yu Duan and Jiaying Liu.
+   * An Emerging Coding Paradigm VCM: A Scalable Coding Approach Beyond Feature and Signal (arXiv 2020), Sifeng Xia, Kunchangtai Liang, Wenhan Yang, Ling-Yu Duan and Jiaying Liu.
    
 #### Digital Retina
  * Three FLow Model [[Web]]() [[PDF]]()
@@ -58,16 +58,31 @@ W. Gao.
 #### Deep Learning Based Video Coding
  * Survey and Case Study [[Web]]() [[PDF]]()
    * Deep learning-based video coding: A review and a case study (ACM Computing Surveys 2020), Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu.
+   
  * Joint Spatial-Temporal Correlation Exploration [[Web]]() [[PDF]]()
    * Learned Video Compression via Joint Spatial-Temporal Correlation Exploration (AAAI 2020), Haojie Liu, Han Shen, Lichao Huang, Ming Lu, Tong Chen, and Zhan Ma.
+   
+ * Neural Compression + Non-Local Attention [[Web]]() [[PDF]]()
+   * Neural Image Compression via Non-Local Attention Optimization and Improved Context Modeling (arXiv 2019), T Chen, H Liu, Z Ma, Q Shen, X Cao, Y Wang.
+   
+ * Multi-Frame Priors [[Web]]() [[PDF]]() [[Web]]() [[PDF]]()
+   * Learned Quality Enhancement via Multi-Frame Priors for HEVC Compliant Low-Delay Applications (arXiv 2019), M Lu, M Cheng, Y Xu, S Pu, Q Shen, Z Ma.
+
+ * Extreme Image Compression [[Web]]() [[PDF]]() [[Web]]() [[PDF]]()
+   * Extreme Image Compression via Multiscale Autoencoders With Generative Adversarial Optimization (arXiv 2019), C Huang, H Liu, T Chen, S Pu, Q Shen, Z Ma.
+
  * iWave [[Web]]() [[PDF]]()
    * iWave: CNN-based wavelet-like transform for image compression (IEEE TMM 2020), Haichuan Ma, Dong Liu*, Ruiqin Xiong, Feng Wu.
+   
  * Responses to Joint Call for Proposals [[Web]]() [[PDF]]()
    * Deep learning-based technology in responses to the joint call for proposals on video compression with capability beyond HEVC (IEEE TCSVT 2020), Dong Liu, Zhenzhong Chen, Shan Liu, Feng Wu.
+   
  * Frank-Wolfe Network [[Web]]() [[PDF]]()
    * Frank-Wolfe network: An interpretable deep structure for non-sparse coding (IEEE TCSVT 2020), Dong Liu, Ke Sun, Zhangyang Wang, Runsheng Liu, Zheng-Jun Zha.
+   
  * Arithmetic Coding [[Web]]() [[PDF]]()
    * Convolutional neural network-based arithmetic coding for HEVC intra-predicted residues (IEEE TCSVT 2020), Changyue Ma, Dong Liu, Xiulian Peng, Li Li, Feng Wu.
+   
  * Quadtree-Based Coding Framework [[Web]]() [[PDF]]()
    * Quadtree-based coding framework for high density camera array based light field image (IEEE TCSVT 2020), Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li.
 
@@ -81,5 +96,5 @@ W. Gao.
 
 #### Video Generation and Prediction
  * Video Prediction without Supervision [[Web]]() [[Code]]() [[PDF]]()
-   * Hierarchical Long-term Video Prediction without Supervision (Arxiv 2018), N. Wichers, R. Villegas, D. Erhan, and H. Lee.
+   * Hierarchical Long-term Video Prediction without Supervision (arXiv 2018), N. Wichers, R. Villegas, D. Erhan, and H. Lee.
 
