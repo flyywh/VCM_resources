@@ -50,6 +50,8 @@ W. Gao.
 #### Scalable Coding
  * Hierarchical Feature Decorrelation [[Web]]() [[Code]]() [[PDF]]()
    * Deep Scalable Image Compression via Hierarchical Feature Decorrelation (PCS 2019), Zongyu Guo, Zhizheng Zhang, Zhibo Chen.
+ * Joint Feature and Texture Coding [[Web]]() [[Code]]() [[PDF]]()
+   * Joint Feature and Texture Coding: Towards Smart Video Representation via Front-end Intelligence (TCSVT 2018), Siwei Ma, Xiang Zhang, Shiqi Wang, Xinfeng Zhang, Chuanmin Jia, Shanshe Wang.
 
 #### Feature Compression
  * Data-driven interest point selection [[Web]]() [[Code]]() [[PDF]]()
@@ -61,6 +63,9 @@ W. Gao.
 
  * Review [[Web]]() [[PDF]]()
    * Image and Video Compression with Neural Networks: A Review (IEEE TCSVT 2019), Siwei Ma, Xinfeng Zhang, Chuanmin Jia, Zhenghui Zhao, Shiqi Wang, Shanshe Wang.
+
+ * Content-aware In-Loop Filter [[Web]]() [[PDF]]()
+   * Content-aware convolutional neural network for in-loop filtering in high efficiency video coding (IEEE TIP 2019), Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Jiaying Liu, Shiliang Pu, Siwei Ma.
 
  * Joint Spatial-Temporal Correlation Exploration [[Web]]() [[PDF]]()
    * Learned Video Compression via Joint Spatial-Temporal Correlation Exploration (AAAI 2020), Haojie Liu, Han Shen, Lichao Huang, Ming Lu, Tong Chen, and Zhan Ma.
