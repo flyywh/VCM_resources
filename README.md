@@ -6,7 +6,7 @@
 
 ## Join VCM
   * MPEG VCM info page and email list [[Link]](https://lists.aau.at/mailman/listinfo/mpeg-vcm)
-  * IEEE ICIP 2012 VCM Special Session [[PDF]](./VCM-poster-V4.pdf)
+  * IEEE ICIP 2012 VCM Special Session [[Call For Paper]](./VCM-poster-V4.pdf) [[Submission Site]](https://cmsworkshops.com/ICIP2020/Papers/Submission.asp)
     * Advanced Image/Video Coding for Machine and Human Vision (IEEE ICIP 2020 Special Session), Organizers: Jiaying Liu, Anthony Vetro, Ling-Yu Duan, Dong Liu.
     
 #### 
