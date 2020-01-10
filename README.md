@@ -58,7 +58,10 @@ W. Gao.
 #### Deep Learning Based Video Coding
  * Survey and Case Study [[Web]]() [[PDF]]()
    * Deep learning-based video coding: A review and a case study (ACM Computing Surveys 2020), Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu.
-   
+
+ * Review [[Web]]() [[PDF]]()
+   * Image and Video Compression with Neural Networks: A Review (IEEE TCSVT 2019), Siwei Ma, Xinfeng Zhang, Chuanmin Jia, Zhenghui Zhao, Shiqi Wang, Shanshe Wang.
+
  * Joint Spatial-Temporal Correlation Exploration [[Web]]() [[PDF]]()
    * Learned Video Compression via Joint Spatial-Temporal Correlation Exploration (AAAI 2020), Haojie Liu, Han Shen, Lichao Huang, Ming Lu, Tong Chen, and Zhan Ma.
    
@@ -88,6 +91,9 @@ W. Gao.
    
  * Quadtree-Based Coding Framework [[Web]]() [[PDF]]()
    * Quadtree-based coding framework for high density camera array based light field image (IEEE TCSVT 2020), Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li.
+   
+ * GAN Intra Prediction [[Web]]() [[PDF]]()
+   * Generative Adversarial Network Based Intra Prediction for Video Coding (TMM 2020), Linwei Zhu, Sam Kwong, Yun Zhang, Shiqi Wang, Xu Wang.
 
 #### Spike Coding
  * Intelligent Driving [[Web]]() [[Code]]() [[PDF]]()
