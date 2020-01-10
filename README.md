@@ -49,7 +49,7 @@ W. Gao.
  * Detection-driven Image Compression [[Web]]() [[Code]]() [[PDF]]()
    * Beyond Coding: Detection-driven Image Compression with Semantically Structured Bit-stream (PCS 2019), Tianyu He, Simeng Sun, Zongyu Guo, Zhibo Chen.
  * High efficiency compression for object detection [[Web]]() [[Code]]() [[PDF]]()
-   * High efficiency compression for object detection (PCS 2019), Hyomin Choi and Ivan V. Bajic.
+   * High efficiency compression for object detection (arXiv 2019), Hyomin Choi and Ivan V. Bajic.
  
 #### Scalable Coding
  * Hierarchical Feature Decorrelation [[Web]]() [[Code]]() [[PDF]]()
