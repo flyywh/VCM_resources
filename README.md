@@ -24,7 +24,17 @@
    * Front-end smart visual sensing and back-end intelligent analysis: A unified infrastructure for economizing the visual system of city brain (IEEE JCAS 2019), Y. Lou, L. Duan, S. Wang, Z. Chen, Y. Bai, C. Chen, and W. Gao.
  * Knowledge Service [[Web]]() [[PDF]]()
    * Toward knowledge as a service over networks: A deep learning model communication paradigm (IEEE JSAC 2019), Z. Chen, L. Duan, S. Wang, Y. Lou, T. Huang, D. O. Wu, and W. Gao.
-   
+
+#### Deep Learning Based Video Coding
+ * Coarse-to-Fine Hyper-Prior [[Web]]() [[PDF]]()
+   * Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression (AAAI 2020), Yueyu Hu, Wenhan Yang, Jiaying Liu.
+ * Progressive Rethinking Network for in-Loop Filtering [[Web]]() [[PDF]]()
+   * Partition Tree Guided Progressive Rethinking Network for in-Loop Filtering of HEVC (IEEE ICIP 2019), Dezhao Wang, Sifeng Xia, Wenhan Yang, Yueyu Hu, Jiaying Liu.
+ * Deep Inter Prediction
+   * Deep Inter Prediction via Pixel-Wise Motion Oriented Reference Generation (IEEE ICIP 2019), Sifeng Xia, Wenhan Yang, Yueyu Hu, Jiaying Liu.
+ * Deep Intra Prediction
+   * Progressive Spatial Recurrent Neural Network for Intra Prediction (IEEE TMM 2019), Yueyu Hu, Wenhan Yang, Mading Li, and Jiaying Liu.
+ * 
    
 #### Feature Compression
  * CDVA [[Web]]() [[PDF]]()
@@ -32,6 +42,7 @@
  * CDVS [[Web]]() [[PDF]]()
    * Overview of the MPEG-CDVS standard (IEEE TIP 2016), L.-Y. Duan, V. Chandrasekhar, J. Chen, J. Lin, Z. Wang, T. Huang, B. Girod, and
 W. Gao.
+
 ## A Comprehensive List of Related Work
 #### Human-Machine Colloborative Coding
  * Scalable Facial Image Compression  [[Web]]() [[Code]]() [[PDF]]()
