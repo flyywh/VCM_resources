@@ -20,13 +20,15 @@
    * Towards digital retina in smart cities: A model generation, utilization and communication paradigm (ICME 2019), Y. Lou, L. Duan, Y. Luo, Z. Chen, T. Liu, S. Wang, and W. Gao.
  * Collaborative Computing  [[Web]]() [[PDF]]()
    * Toward intelligent visual sensing and low-cost analysis: A collaborative computing approach (VCIP 2019), Y. Bai, L. Duan, Y. Luo, S. Wang, Y. Wen, and W. Gao.
-
+ * Unified Infrastructure
+   * Front-end smart visual sensing and back-end intelligent analysis: A unified infrastructure for economizing the visual system of city brain (IEEE JCAS 2019), Y. Lou, L. Duan, S. Wang, Z. Chen, Y. Bai, C. Chen, and W. Gao.
+ * Knowledge Service
+   * Toward knowledge as a service over networks: A deep learning model communication paradigm (IEEE JSAC 2019), Z. Chen, L. Duan, S. Wang, Y. Lou, T. Huang, D. O. Wu, and W. Gao.
+   
+   
 #### Feature Compression
  * CDVA [[Web]]() [[PDF]]()
    * Compact descriptors for video analysis: The emerging MPEG standard (IEEE TMM 2019), L.-Y. Duan, Y. Lou, Y. Bai, T. Huang, W. Gao, V. Chandrasekhar, J. Lin, S. Wang, and A. C. Kot.
-   
- * CDVS [[Web]]() [[PDF]]()
-   * Overview of the MPEG-CDVS standard (IEEE TIP 2016), L.-Y. Duan, V. Chandrasekhar, J. Chen, J. Lin, Z. Wang, T. Huang, B. Girod, and W. Gao.
 
 ## A Comprehensive List of Related Work
 #### Human-Machine Colloborative Coding
@@ -40,6 +42,7 @@
 #### Feature Compression
  * VCM Survey [[Web]]() [[Code]]() [[PDF]]()
    * Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics (Arxiv 2020), Ling-Yu Duan, Jiaying Liu, Wenhan Yang, Tiejun Huang, Wen Gao.
+ 
    
 #### Spike Coding
  * Intelligent Driving [[Web]]() [[Code]]() [[PDF]]()
