@@ -71,6 +71,9 @@ W. Gao.
  * Extreme Image Compression [[Web]]() [[PDF]]() [[Web]]() [[PDF]]()
    * Extreme Image Compression via Multiscale Autoencoders With Generative Adversarial Optimization (arXiv 2019), C Huang, H Liu, T Chen, S Pu, Q Shen, Z Ma.
 
+ * Gated Context Model [[Web]]() [[PDF]]() [[Web]]() [[PDF]]()
+   * Gated Context Model with Embedded Priors for Deep Image Compression (arXiv 2019), H Liu, T Chen, P Guo, Q Shen, Z Ma.
+
  * iWave [[Web]]() [[PDF]]()
    * iWave: CNN-based wavelet-like transform for image compression (IEEE TMM 2020), Haichuan Ma, Dong Liu*, Ruiqin Xiong, Feng Wu.
    
