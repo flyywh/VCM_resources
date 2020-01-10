@@ -44,8 +44,12 @@ W. Gao.
 
 ## A Comprehensive List of Related Work
 #### Human-Machine Colloborative Coding
- * Scalable Facial Image Compression  [[Web]]() [[Code]]() [[PDF]]()
+ * Scalable Facial Image Compression [[Web]]() [[Code]]() [[PDF]]()
    * Scalable Facial Image Compression with Deep Feature Reconstruction (ICIP 2019), Shurun Wang, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Siwei Ma, Wen Gao.
+ * Detection-driven Image Compression [[Web]]() [[Code]]() [[PDF]]()
+   * Beyond Coding: Detection-driven Image Compression with Semantically Structured Bit-stream (PCS 2019), Tianyu He, Simeng Sun, Zongyu Guo, Zhibo Chen.
+ * High efficiency compression for object detection [[Web]]() [[Code]]() [[PDF]]()
+   * High efficiency compression for object detection (PCS 2019), Hyomin Choi and Ivan V. Bajic.
  
 #### Scalable Coding
  * Hierarchical Feature Decorrelation [[Web]]() [[Code]]() [[PDF]]()
@@ -107,8 +111,3 @@ W. Gao.
    * An efficient coding method for spike camera using inter-spike intervals (DCC 2019), S. Dong, L. Zhu, D. Xu, Y. Tian, and T. Huang. 
  * Lossy Compression [[Web]]() [[Code]]() [[PDF]]()
    * Spike coding: Towards lossy compression for dynamic vision sensor (DCC 2019), Y. Fu, J. Li, S. Dong, Y. Tian, and T. Huang.
-
-#### Video Generation and Prediction
- * Video Prediction without Supervision [[Web]]() [[Code]]() [[PDF]]()
-   * Hierarchical Long-term Video Prediction without Supervision (arXiv 2018), N. Wichers, R. Villegas, D. Erhan, and H. Lee.
-
