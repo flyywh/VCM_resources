@@ -68,43 +68,30 @@ W. Gao.
 #### Deep Learning Based Video Coding
  * Survey and Case Study [[Web]]() [[PDF]]()
    * Deep learning-based video coding: A review and a case study (ACM Computing Surveys 2020), Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu.
-
  * Review [[Web]]() [[PDF]]()
    * Image and Video Compression with Neural Networks: A Review (IEEE TCSVT 2019), Siwei Ma, Xinfeng Zhang, Chuanmin Jia, Zhenghui Zhao, Shiqi Wang, Shanshe Wang.
-
  * Content-aware In-Loop Filter [[Web]]() [[PDF]]()
    * Content-aware convolutional neural network for in-loop filtering in high efficiency video coding (IEEE TIP 2019), Chuanmin Jia, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Jiaying Liu, Shiliang Pu, Siwei Ma.
-
  * Joint Spatial-Temporal Correlation Exploration [[Web]]() [[PDF]]()
    * Learned Video Compression via Joint Spatial-Temporal Correlation Exploration (AAAI 2020), Haojie Liu, Han Shen, Lichao Huang, Ming Lu, Tong Chen, and Zhan Ma.
-   
  * Neural Compression + Non-Local Attention [[Web]]() [[PDF]]()
    * Neural Image Compression via Non-Local Attention Optimization and Improved Context Modeling (arXiv 2019), T Chen, H Liu, Z Ma, Q Shen, X Cao, Y Wang.
-   
  * Multi-Frame Priors [[Web]]() [[PDF]]() [[Web]]() [[PDF]]()
    * Learned Quality Enhancement via Multi-Frame Priors for HEVC Compliant Low-Delay Applications (arXiv 2019), M Lu, M Cheng, Y Xu, S Pu, Q Shen, Z Ma.
-
  * Extreme Image Compression [[Web]]() [[PDF]]() [[Web]]() [[PDF]]()
    * Extreme Image Compression via Multiscale Autoencoders With Generative Adversarial Optimization (arXiv 2019), C Huang, H Liu, T Chen, S Pu, Q Shen, Z Ma.
-
  * Gated Context Model [[Web]]() [[PDF]]() [[Web]]() [[PDF]]()
    * Gated Context Model with Embedded Priors for Deep Image Compression (arXiv 2019), H Liu, T Chen, P Guo, Q Shen, Z Ma.
-
  * iWave [[Web]]() [[PDF]]()
    * iWave: CNN-based wavelet-like transform for image compression (IEEE TMM 2020), Haichuan Ma, Dong Liu*, Ruiqin Xiong, Feng Wu.
-   
  * Responses to Joint Call for Proposals [[Web]]() [[PDF]]()
    * Deep learning-based technology in responses to the joint call for proposals on video compression with capability beyond HEVC (IEEE TCSVT 2020), Dong Liu, Zhenzhong Chen, Shan Liu, Feng Wu.
-   
  * Frank-Wolfe Network [[Web]]() [[PDF]]()
    * Frank-Wolfe network: An interpretable deep structure for non-sparse coding (IEEE TCSVT 2020), Dong Liu, Ke Sun, Zhangyang Wang, Runsheng Liu, Zheng-Jun Zha.
-   
  * Arithmetic Coding [[Web]]() [[PDF]]()
    * Convolutional neural network-based arithmetic coding for HEVC intra-predicted residues (IEEE TCSVT 2020), Changyue Ma, Dong Liu, Xiulian Peng, Li Li, Feng Wu.
-   
  * Quadtree-Based Coding Framework [[Web]]() [[PDF]]()
    * Quadtree-based coding framework for high density camera array based light field image (IEEE TCSVT 2020), Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li.
-   
  * GAN Intra Prediction [[Web]]() [[PDF]]()
    * Generative Adversarial Network Based Intra Prediction for Video Coding (IEEE TMM 2020), Linwei Zhu, Sam Kwong, Yun Zhang, Shiqi Wang, Xu Wang.
 
