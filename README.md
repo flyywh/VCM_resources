@@ -58,8 +58,8 @@ W. Gao.
 #### Deep Learning Based Video Coding
  * Survey and Case Study [[Web]]() [[PDF]]()
    * Deep learning-based video coding: A review and a case study (ACM Computing Surveys 2020), Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu.
- * Joint Spatial-Temporal Correlation Exploration [[Web]]() [[PDF]](AAAI 2020)
-   * Learned Video Compression via Joint Spatial-Temporal Correlation Exploration (), Haojie Liu, Han Shen, Lichao Huang, Ming Lu, Tong Chen, and Zhan Ma.
+ * Joint Spatial-Temporal Correlation Exploration [[Web]]() [[PDF]]()
+   * Learned Video Compression via Joint Spatial-Temporal Correlation Exploration (AAAI 2020), Haojie Liu, Han Shen, Lichao Huang, Ming Lu, Tong Chen, and Zhan Ma.
  * iWave [[Web]]() [[PDF]]()
    * iWave: CNN-based wavelet-like transform for image compression (IEEE TMM 2020), Haichuan Ma, Dong Liu*, Ruiqin Xiong, Feng Wu.
  * Responses to Joint Call for Proposals [[Web]]() [[PDF]]()
