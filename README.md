@@ -7,7 +7,7 @@
 ## Works Done by IMRE and STRUCT
 
 #### Human-Machine Colloborative Coding
- * Scalable Image Coding [[Web]](https://williamyang1991.github.io/projects/VCM-Face/) [[PDF]]()
+ * Scalable Image Coding [[Web]]() [[PDF]]()
    * Towards Coding for Human and Machine Vision: A Scalable Image Coding Approach (arXiv 2020), Yueyu Hu, Shuai Yang, Wenhan Yang, Ling-Yu Duan, Jiaying Liu.
  * Emerging Coding Paradigm VCM [[Web]]() [[PDF]]()
    * An Emerging Coding Paradigm VCM: A Scalable Coding Approach Beyond Feature and Signal (arXiv 2020), Sifeng Xia, Kunchangtai Liang, Wenhan Yang, Ling-Yu Duan and Jiaying Liu.
