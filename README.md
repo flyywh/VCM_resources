@@ -30,9 +30,9 @@
    * Coarse-to-Fine Hyper-Prior Modeling for Learned Image Compression (AAAI 2020), Yueyu Hu, Wenhan Yang, Jiaying Liu.
  * Progressive Rethinking Network for in-Loop Filtering [[Web]]() [[PDF]]()
    * Partition Tree Guided Progressive Rethinking Network for in-Loop Filtering of HEVC (IEEE ICIP 2019), Dezhao Wang, Sifeng Xia, Wenhan Yang, Yueyu Hu, Jiaying Liu.
- * Deep Inter Prediction
+ * Deep Inter Prediction [[Web]]() [[Code]]() [[PDF]]()
    * Deep Inter Prediction via Pixel-Wise Motion Oriented Reference Generation (IEEE ICIP 2019), Sifeng Xia, Wenhan Yang, Yueyu Hu, Jiaying Liu.
- * Deep Intra Prediction
+ * Deep Intra Prediction [[Web]]() [[Code]]() [[PDF]]()
    * Progressive Spatial Recurrent Neural Network for Intra Prediction (IEEE TMM 2019), Yueyu Hu, Wenhan Yang, Mading Li, and Jiaying Liu.
    
 #### Feature Compression
@@ -52,8 +52,8 @@ W. Gao.
    * Deep Scalable Image Compression via Hierarchical Feature Decorrelation (PCS 2019), Zongyu Guo, Zhizheng Zhang, Zhibo Chen.
 
 #### Feature Compression
- * VCM Survey [[Web]]() [[Code]]() [[PDF]]()
-   * Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics (Arxiv 2020), Ling-Yu Duan, Jiaying Liu, Wenhan Yang, Tiejun Huang, Wen Gao.
+ * Data-driven interest point selection [[Web]]() [[Code]]() [[PDF]]()
+   * Data-driven lightweight interest point selection for large-scale visual search (TMM 2018), F. Gao, X. Zhang, Y. Huang, Y. Luo, X. Li, and L.-Y. Duan.
    
 #### Spike Coding
  * Intelligent Driving [[Web]]() [[Code]]() [[PDF]]()
