@@ -4,8 +4,7 @@
 
 **This list is maintained by: [[IMRE]](http://imre.idm.pku.edu.cn/index.html) PKU (PI: Prof. Ling-Yu Duan) and [[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu)**
 
-## VCM Resources
-#### Join VCM
+## Join VCM
   * MPEG VCM info page and email list [[Link]](https://lists.aau.at/mailman/listinfo/mpeg-vcm)
   * ICIP VCM Special Issue [[Web]] [[PDF]]
     * Advanced Image/Video Coding for Machine and Human Vision (ICIP Special Issue 2020), Jiaying Liu, Anthony Vetro, Ling-Yu Duan, Dong Liu.
