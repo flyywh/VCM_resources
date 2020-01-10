@@ -55,6 +55,20 @@ W. Gao.
  * Data-driven interest point selection [[Web]]() [[Code]]() [[PDF]]()
    * Data-driven lightweight interest point selection for large-scale visual search (TMM 2018), F. Gao, X. Zhang, Y. Huang, Y. Luo, X. Li, and L.-Y. Duan.
    
+#### Deep Learning Based Video Coding
+ * Survey and Case Study [[Web]]() [[PDF]]()
+   * Deep learning-based video coding: A review and a case study (ACM Computing Surveys 2020), Dong Liu, Yue Li, Jianping Lin, Houqiang Li, Feng Wu.
+ * iWave [[Web]]() [[PDF]]()
+   * iWave: CNN-based wavelet-like transform for image compression (IEEE TMM 2020), Haichuan Ma, Dong Liu*, Ruiqin Xiong, Feng Wu.
+ * Responses to Joint Call for Proposals [[Web]]() [[PDF]]()
+   * Deep learning-based technology in responses to the joint call for proposals on video compression with capability beyond HEVC (IEEE TCSVT 2020), Dong Liu, Zhenzhong Chen, Shan Liu, Feng Wu.
+ * Frank-Wolfe Network [[Web]]() [[PDF]]()
+   * Frank-Wolfe network: An interpretable deep structure for non-sparse coding (IEEE TCSVT 2020), Dong Liu, Ke Sun, Zhangyang Wang, Runsheng Liu, Zheng-Jun Zha.
+ * Arithmetic Coding [[Web]]() [[PDF]]()
+   * Convolutional neural network-based arithmetic coding for HEVC intra-predicted residues (IEEE TCSVT 2020), Changyue Ma, Dong Liu, Xiulian Peng, Li Li, Feng Wu.
+ * Quadtree-Based Coding Framework [[Web]]() [[PDF]]()
+   * Quadtree-based coding framework for high density camera array based light field image (IEEE TCSVT 2020), Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li.
+
 #### Spike Coding
  * Intelligent Driving [[Web]]() [[Code]]() [[PDF]]()
    * Spike coding for dynamic vision sensor in intelligent driving (IEEE Internet of Things Journal 2019), S. Dong, Z. Bi, Y. Tian, and T. Huang.
@@ -62,7 +76,7 @@ W. Gao.
    * An efficient coding method for spike camera using inter-spike intervals (DCC 2019), S. Dong, L. Zhu, D. Xu, Y. Tian, and T. Huang. 
  * Lossy Compression [[Web]]() [[Code]]() [[PDF]]()
    * Spike coding: Towards lossy compression for dynamic vision sensor (DCC 2019), Y. Fu, J. Li, S. Dong, Y. Tian, and T. Huang.
-   
+
 #### Video Generation and Prediction
  * Video Prediction without Supervision [[Web]]() [[Code]]() [[PDF]]()
    * Hierarchical Long-term Video Prediction without Supervision (Arxiv 2018), N. Wichers, R. Villegas, D. Erhan, and H. Lee.
