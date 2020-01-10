@@ -34,7 +34,6 @@
    * Deep Inter Prediction via Pixel-Wise Motion Oriented Reference Generation (IEEE ICIP 2019), Sifeng Xia, Wenhan Yang, Yueyu Hu, Jiaying Liu.
  * Deep Intra Prediction
    * Progressive Spatial Recurrent Neural Network for Intra Prediction (IEEE TMM 2019), Yueyu Hu, Wenhan Yang, Mading Li, and Jiaying Liu.
- * 
    
 #### Feature Compression
  * CDVA [[Web]]() [[PDF]]()
