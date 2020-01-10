@@ -17,9 +17,9 @@
    
 #### Digital Retina
  * Three FLow Model [[Web]]() [[PDF]]()
-   * Towards digital retina in smart cities: A model generation, utilization and communication paradigm (ICME 2019), Y. Lou, L. Duan, Y. Luo, Z. Chen, T. Liu, S. Wang, and W. Gao.
+   * Towards digital retina in smart cities: A model generation, utilization and communication paradigm (IEEE ICME 2019), Y. Lou, L. Duan, Y. Luo, Z. Chen, T. Liu, S. Wang, and W. Gao.
  * Collaborative Computing  [[Web]]() [[PDF]]()
-   * Toward intelligent visual sensing and low-cost analysis: A collaborative computing approach (VCIP 2019), Y. Bai, L. Duan, Y. Luo, S. Wang, Y. Wen, and W. Gao.
+   * Toward intelligent visual sensing and low-cost analysis: A collaborative computing approach (IEEE VCIP 2019), Y. Bai, L. Duan, Y. Luo, S. Wang, Y. Wen, and W. Gao.
  * Unified Infrastructure [[Web]]() [[PDF]]()
    * Front-end smart visual sensing and back-end intelligent analysis: A unified infrastructure for economizing the visual system of city brain (IEEE JCAS 2019), Y. Lou, L. Duan, S. Wang, Z. Chen, Y. Bai, C. Chen, and W. Gao.
  * Knowledge Service [[Web]]() [[PDF]]()
@@ -45,7 +45,7 @@ W. Gao.
 ## A Comprehensive List of Related Work
 #### Human-Machine Colloborative Coding
  * Scalable Facial Image Compression [[Web]]() [[Code]]() [[PDF]]()
-   * Scalable Facial Image Compression with Deep Feature Reconstruction (ICIP 2019), Shurun Wang, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Siwei Ma, Wen Gao.
+   * Scalable Facial Image Compression with Deep Feature Reconstruction (IEEE ICIP 2019), Shurun Wang, Shiqi Wang, Xinfeng Zhang, Shanshe Wang, Siwei Ma, Wen Gao.
  * Detection-driven Image Compression [[Web]]() [[Code]]() [[PDF]]()
    * Beyond Coding: Detection-driven Image Compression with Semantically Structured Bit-stream (PCS 2019), Tianyu He, Simeng Sun, Zongyu Guo, Zhibo Chen.
  * High efficiency compression for object detection [[Web]]() [[Code]]() [[PDF]]()
@@ -55,11 +55,11 @@ W. Gao.
  * Hierarchical Feature Decorrelation [[Web]]() [[Code]]() [[PDF]]()
    * Deep Scalable Image Compression via Hierarchical Feature Decorrelation (PCS 2019), Zongyu Guo, Zhizheng Zhang, Zhibo Chen.
  * Joint Feature and Texture Coding [[Web]]() [[Code]]() [[PDF]]()
-   * Joint Feature and Texture Coding: Towards Smart Video Representation via Front-end Intelligence (TCSVT 2018), Siwei Ma, Xiang Zhang, Shiqi Wang, Xinfeng Zhang, Chuanmin Jia, Shanshe Wang.
+   * Joint Feature and Texture Coding: Towards Smart Video Representation via Front-end Intelligence (IEEE TCSVT 2018), Siwei Ma, Xiang Zhang, Shiqi Wang, Xinfeng Zhang, Chuanmin Jia, Shanshe Wang.
 
 #### Feature Compression
  * Data-driven interest point selection [[Web]]() [[Code]]() [[PDF]]()
-   * Data-driven lightweight interest point selection for large-scale visual search (TMM 2018), F. Gao, X. Zhang, Y. Huang, Y. Luo, X. Li, and L.-Y. Duan.
+   * Data-driven lightweight interest point selection for large-scale visual search (IEEE TMM 2018), F. Gao, X. Zhang, Y. Huang, Y. Luo, X. Li, and L.-Y. Duan.
    
 #### Deep Learning Based Video Coding
  * Survey and Case Study [[Web]]() [[PDF]]()
@@ -102,7 +102,7 @@ W. Gao.
    * Quadtree-based coding framework for high density camera array based light field image (IEEE TCSVT 2020), Li Li, Zhu Li, Bin Li, Dong Liu, Houqiang Li.
    
  * GAN Intra Prediction [[Web]]() [[PDF]]()
-   * Generative Adversarial Network Based Intra Prediction for Video Coding (TMM 2020), Linwei Zhu, Sam Kwong, Yun Zhang, Shiqi Wang, Xu Wang.
+   * Generative Adversarial Network Based Intra Prediction for Video Coding (IEEE TMM 2020), Linwei Zhu, Sam Kwong, Yun Zhang, Shiqi Wang, Xu Wang.
 
 #### Spike Coding
  * Intelligent Driving [[Web]]() [[Code]]() [[PDF]]()
