@@ -20,9 +20,9 @@
    * Towards digital retina in smart cities: A model generation, utilization and communication paradigm (ICME 2019), Y. Lou, L. Duan, Y. Luo, Z. Chen, T. Liu, S. Wang, and W. Gao.
  * Collaborative Computing  [[Web]]() [[PDF]]()
    * Toward intelligent visual sensing and low-cost analysis: A collaborative computing approach (VCIP 2019), Y. Bai, L. Duan, Y. Luo, S. Wang, Y. Wen, and W. Gao.
- * Unified Infrastructure
+ * Unified Infrastructure [[Web]]() [[PDF]]()
    * Front-end smart visual sensing and back-end intelligent analysis: A unified infrastructure for economizing the visual system of city brain (IEEE JCAS 2019), Y. Lou, L. Duan, S. Wang, Z. Chen, Y. Bai, C. Chen, and W. Gao.
- * Knowledge Service
+ * Knowledge Service [[Web]]() [[PDF]]()
    * Toward knowledge as a service over networks: A deep learning model communication paradigm (IEEE JSAC 2019), Z. Chen, L. Duan, S. Wang, Y. Lou, T. Huang, D. O. Wu, and W. Gao.
    
    
