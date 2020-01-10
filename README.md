@@ -4,7 +4,7 @@
 
 **This list is maintained by: [[IMRE]](http://imre.idm.pku.edu.cn/index.html) PKU (PI: Prof. Ling-Yu Duan) and [[STRUCT]](http://www.icst.pku.edu.cn/struct/struct.html) PKU (PI: Prof. Jiaying Liu)**
 
-## Works Done by STRUCT and IMRE
+## Works Done by IMRE and STRUCT
 #### Survey
  * VCM Survey [[Web]]() [[PDF]]()
    * Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics (Arxiv 2020), Ling-Yu Duan, Jiaying Liu, Wenhan Yang, Tiejun Huang, Wen Gao.
