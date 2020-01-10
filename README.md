@@ -29,7 +29,9 @@
 #### Feature Compression
  * CDVA [[Web]]() [[PDF]]()
    * Compact descriptors for video analysis: The emerging MPEG standard (IEEE TMM 2019), L.-Y. Duan, Y. Lou, Y. Bai, T. Huang, W. Gao, V. Chandrasekhar, J. Lin, S. Wang, and A. C. Kot.
-
+ * CDVS [[Web]]() [[PDF]]()
+   * Overview of the MPEG-CDVS standard (IEEE TIP 2016), L.-Y. Duan, V. Chandrasekhar, J. Chen, J. Lin, Z. Wang, T. Huang, B. Girod, and
+W. Gao.
 ## A Comprehensive List of Related Work
 #### Human-Machine Colloborative Coding
  * Scalable Facial Image Compression  [[Web]]() [[Code]]() [[PDF]]()
@@ -42,7 +44,6 @@
 #### Feature Compression
  * VCM Survey [[Web]]() [[Code]]() [[PDF]]()
    * Video Coding for Machines: A Paradigm of Collaborative Compression and Intelligent Analytics (Arxiv 2020), Ling-Yu Duan, Jiaying Liu, Wenhan Yang, Tiejun Huang, Wen Gao.
- 
    
 #### Spike Coding
  * Intelligent Driving [[Web]]() [[Code]]() [[PDF]]()
